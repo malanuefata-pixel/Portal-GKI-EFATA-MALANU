@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="96" fill="#0F2C59"/>
+  <circle cx="256" cy="256" r="198" stroke="#D4AF37" stroke-width="10" stroke-opacity="0.85"/>
+  <circle cx="256" cy="256" r="176" stroke="#D4AF37" stroke-width="3" stroke-opacity="0.45"/>
+  <!-- Cross -->
+  <rect x="240" y="106" width="32" height="224" rx="6" fill="#D4AF37"/>
+  <rect x="172" y="168" width="168" height="32" rx="6" fill="#D4AF37"/>
+  <!-- Open Bible -->
+  <path d="M132 316 C172 298, 220 302, 256 324 C292 302, 340 298, 380 316 L380 390 C340 374, 292 378, 256 398 C220 378, 172 374, 132 390 Z" fill="#F8FAFC" stroke="#D4AF37" stroke-width="8" stroke-linejoin="round"/>
+  <line x1="256" y1="324" x2="256" y2="398" stroke="#0F2C59" stroke-width="6"/>
+</svg>

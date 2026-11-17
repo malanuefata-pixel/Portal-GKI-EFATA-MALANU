@@ -1,0 +1,6 @@
+{
+  "name": "GKI Efata Malanu — Portal Jemaat",
+  "description": "Portal informasi ibadah, liturgi, kidung pujian, Alkitab, dan layanan administrasi Jemaat GKI Efata Malanu, Klasis Sorong.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
